@@ -9,12 +9,9 @@ Built an interactive dashboard to explore the [Belly Button Biodiversity Dataset
 ## Step 01 - Plotly.js
 Plotly.js was used to build interactive charts for the dashboard. Pie chart was used to display the top 10 samples, and a bubble chart was used to display each sample. The metadata was displayed and updated each time a new sample was displayed.
 
-![PIE Chart](Images/pie_chart.png)
+![Example Dashboard Page](Images/dashboard.png)
 
 ![Bubble Chart](Images/bubble_chart.png)
-
-![Example Dashboard Page](Images/dashboard_part1.png)
-![Example Dashboard Page](Images/dashboard_part2.png)
 
 ## Step 02 - Heroku
 
