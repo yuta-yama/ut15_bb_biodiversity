@@ -1,4 +1,4 @@
-# Belly Button Biodiversity
+# Belly Button Biodiversity Interactive Dashboard
 
 ## Description
 Built an interactive dashboard to explore the [Belly Button Biodiversity Dataset](http://robdunnlab.com/projects/belly-button-biodiversity/).
