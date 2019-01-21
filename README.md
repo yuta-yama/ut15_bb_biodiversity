@@ -20,5 +20,5 @@ The dashboard was deployed as a Flask app to Heroku. SQLite file was used for th
 [Open the Heroku App](https://yy-bb-biodiversity.herokuapp.com/)
 
 ## Finished Result
-![mission_to_mars](Images/yuta_mars_screenshot.png)
+![mission_to_mars](Images/biodiversity_final.png)
 
